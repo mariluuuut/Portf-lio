@@ -38,6 +38,12 @@ O projeto segue uma arquitetura MVC (Model-View-Controller) com a seguinte estru
 3. Inicie o servidor local utilizando o comando `npm start`.
 4. Utilize as rotas definidas na API para realizar operações bancárias.
 
+## Prints do Projeto
+![image](https://github.com/mariluuuut/Portf-lio/assets/164011718/79cc94f8-a0e5-42a6-acb5-fd7146d94b73)
+![image](https://github.com/mariluuuut/Portf-lio/assets/164011718/c8c8b3a4-fad6-4afa-9c64-576d985218f1)
+
+
+
 ## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, correções de bugs ou novas funcionalidades.
