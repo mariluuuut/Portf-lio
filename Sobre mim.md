@@ -2,6 +2,8 @@
 
 Eu sou Maria Luisa Toledo, graduada em Secretariado Executivo Trilíngue e atualmente atuando na área de Sales Ops. Meu foco principal está em otimizar processos de vendas e garantir a eficiência operacional, especialmente utilizando plataformas como HubSpot, Metabase, Power BI e Excel.
 
+-**Linkedin:** www.linkedin.com/in/marialuisatoledo
+
 ## Tecnologias Dominadas
 
 - **HubSpot:** Utilização completa da plataforma para gestão de CRM, automação de marketing, criação de fluxos de trabalho e análise de métricas de vendas e marketing.
